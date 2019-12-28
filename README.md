@@ -1,6 +1,6 @@
 # python-pop3-mailAttachment-downloader
 
-Class based by Python3, check mails and download to destenation folder.
+Class check mails and download to destination folder.
 
 !!!!!! After download attachment delete mail!!!!!!
 
